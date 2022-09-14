@@ -1,0 +1,21 @@
+Common Lisp Experiments
+
+This is a repo where  I keep my lisp files.
+
+* TODO
+- [ ] Add example for CL-SDK2
+
+  See also:
+  - [ ] render loop
+  - [ ] input events
+  - [ ] interactively reloading things
+  - [ ] Understand: https://funcall.blogspot.com/2022/09/playing-with-raycasting.html
+  - [ ] Understand this: https://funcall.blogspot.com/2022/08/playing-with-graphics.html
+
+- [ ] Sound!
+
+  Look into cl-collider https://github.com/byulparan/cl-collider
+
+- [ ] cl-visual
+
+  This looks cool: https://github.com/byulparan/cl-visual
